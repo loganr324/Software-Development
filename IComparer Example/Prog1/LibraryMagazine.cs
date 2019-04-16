@@ -1,8 +1,3 @@
-﻿// Program 1A
-// CIS 200-01
-// Due: 2/15/2017
-// By: Andrew L. Wright (Students use Grading ID)
-
 // File: LibraryMagazine.cs
 // This file creates a concrete LibraryMagazine class that adds
 // no new data.
