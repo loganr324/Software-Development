@@ -1,8 +1,3 @@
-﻿// Program 1A
-// CIS 200-01
-// Due: 2/15/2017
-// By: Andrew L. Wright (Students use Grading ID)
-
 // File: LibraryMediaItem.cs
 // This file creates an abstract LibraryMediaItem class that adds
 // media type and duration.
