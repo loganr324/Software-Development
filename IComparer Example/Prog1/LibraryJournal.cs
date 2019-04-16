@@ -1,8 +1,3 @@
-﻿// Program 1A
-// CIS 200-01
-// Due: 2/15/2017
-// By: Andrew L. Wright (Students use Grading ID)
-
 // File: LibraryJournal.cs
 // This file creates a concrete LibraryJournal class that adds
 // discipline and editor.
