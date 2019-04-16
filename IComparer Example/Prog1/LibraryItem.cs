@@ -1,8 +1,3 @@
-﻿// Program 1A
-// CIS 200-01
-// Due: 2/15/2017
-// By: Andrew L. Wright (Students use Grading ID)
-
 // File: LibraryItem.cs
 // This file creates an abstract LibraryItem class that will serve
 // as the base class of a hierarchy of library items that keep
