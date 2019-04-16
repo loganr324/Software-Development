@@ -1,8 +1,3 @@
-﻿// Program 0
-// CIS 200-01
-// By: Andrew L. Wright (Student's use Grading ID)
-// Due: 1/20/2017
-
 // File: LibraryPatron.cs
 // This file creates a simple LibraryPatron class capable of tracking
 // the patron's name and ID.
